@@ -1,3 +1,0 @@
-token = "vk1.a.k8MYC9K5zU68nzs-DvkDtSsrxdZf9dzt7drULY0klvY1GfJQg2IBdkZ8S12X9QCiybtIq4zc1tuqh1tCcC0K2ANGtIvmW2K4_V2zpUyMFxx1qLWsKuRC2LO-z4YVFizLxYfsN1JW2k5sF4wuv6hxmw3PEIfIEGegR8c9lTGr1l0NpFbmocPMbVI8PaiykMemJjUvSWboMMWAQmaAHJZlbw"
-file_path = r'C:\Users\User\Documents\RADMIR CRMP User Files\SAMP\chatlog.txt'
-id_chat = 366
